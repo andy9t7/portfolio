@@ -1,4 +1,4 @@
-baseURL = 'http://andy9t7.github.io/'
+baseURL = 'https://andy9t7.github.io'
 languageCode = 'en-us'
-title = 'andy's portfolio :)'
+title = 'andys portfolio :)'
 theme = 'cactus'
