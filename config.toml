@@ -21,8 +21,27 @@ url = "/about"
 weight = 3
 
 [params]
-description = "Hi! My name is Andy Huynh. I am a PhD student who is currently doing research in computer simulations and computations of the human brain. I enjoy academic teaching and find it rewarding to help students understand difficult concepts and topics in Mechanical Engineering. I do a lot of personal side projects alongside my research (i often get side-tracked from what i am supposed to do 😭) which I will be updating on my website."
+# Description
+description = "Hi! My name is Andy Huynh. I am a PhD student who is currently doing research in computer simulations and computations of the human brain. I enjoy academic teaching and find it rewarding to help students understand difficult concepts and topics in Mechanical Engineering. I do many personal side projects alongside my research (i often get side-tracked from what i am supposed to do 😭) which I will be updating on my website."
 
+# Posts
 mainSection = "posts"
 showAllPostsOnHomePage = false
 postsOnHomePage = 5
+
+# Projects
+showProjectsList = true
+projectsUrl = "https://github.com/andy9t7"
+
+# Social Media
+[[params.social]]
+  name = "github"
+  link = "https://github.com/andy9t7"
+
+[[params.social]]
+  name = "email"
+  link = "andy.huynh@research.uwa.edu.au" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/andythuynhwa/"
