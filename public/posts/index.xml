@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on andys portfolio✌</title>
-    <link>https://andy9t7.github.io/posts/</link>
+    <link>https://ahuynh.io/posts/</link>
     <description>Recent content in Posts on andys portfolio✌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Oct 2022 03:54:21 +0800</lastBuildDate><atom:link href="https://andy9t7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 14:33:41 +0800</lastBuildDate><atom:link href="https://ahuynh.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sustainable Development Goals (SDG) Lesson</title>
+      <link>https://ahuynh.io/posts/sdglesson/</link>
+      <pubDate>Wed, 26 Oct 2022 14:33:41 +0800</pubDate>
+      
+      <guid>https://ahuynh.io/posts/sdglesson/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Reflections on Learning and Teaching</title>
-      <link>https://andy9t7.github.io/posts/reflectionsonlearningandteaching/</link>
+      <link>https://ahuynh.io/posts/reflectionsonlearningandteaching/</link>
       <pubDate>Mon, 24 Oct 2022 03:54:21 +0800</pubDate>
       
-      <guid>https://andy9t7.github.io/posts/reflectionsonlearningandteaching/</guid>
+      <guid>https://ahuynh.io/posts/reflectionsonlearningandteaching/</guid>
       <description>Lesson 1: Setting the Scene Lesson 2: Active Learning Strategies for Collaborative Small Group Teaching Lesson 3: Designing a High-Impact Digital Learning Experience in the Online Classroom Lesson 4: Assessment and Feedback Lesson 5: Intercultural Agility and Inclusive Teaching </description>
     </item>
     
     <item>
       <title>Teaching Philosophy</title>
-      <link>https://andy9t7.github.io/posts/teachingphilosophy/</link>
+      <link>https://ahuynh.io/posts/teachingphilosophy/</link>
       <pubDate>Mon, 24 Oct 2022 03:44:52 +0800</pubDate>
       
-      <guid>https://andy9t7.github.io/posts/teachingphilosophy/</guid>
+      <guid>https://ahuynh.io/posts/teachingphilosophy/</guid>
       <description></description>
     </item>
     

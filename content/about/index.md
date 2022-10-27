@@ -27,7 +27,11 @@ Intelligent Systems for Medicine Laboratory
 
 ## Achievements
 
+### William and Marlene Schrader Prize in Biomedical Engineering - Prize $2,000
+Awarded to the student who achieved the highest mark in the field of biomedical engineering.
+
 ### Australian Government Research Training Program Scholarship - Grant $30,000 per annum
+Awarded to students of exceptional research potential to undertake a higher degree by research at an Australian university.
 
 ### F. Mosey Travel Scholarship - Grant $3,000
-Academic Achievement and Research Excellence
+Awarded for academic achievement and research excellence
